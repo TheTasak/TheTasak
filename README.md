@@ -1,3 +1,3 @@
 # Introduction
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1dMxDqwebBo4kGxrwhwe_GnxH91NL7iMmuWxSZ0OL-Is)<br/>
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1k6Fvh5Jdp-324udZ0euFBDptiRKbaDEY/view?usp=sharing)<br/>
 Hi! I'm a aspiring front-end developer with some experience in React and Bootstrap through personal and companies projects. My interests include data visualization and finances.
